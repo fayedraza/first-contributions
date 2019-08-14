@@ -20,6 +20,7 @@
 Cody Dullard
 JAYATI SHRIVASTAVA
 - [sixlim] (https://github.com/sixlim)
+- [Fayed Raza] (https://github.com/fayedraza)
 - [Kishore Kumar Anand] (https://github.com/kishorekumar2309)
 - [Bill Haverberg] (https://github.com/BillHaverberg)
 - [nonamekiddie] (https://github.com/nonamekiddie)
